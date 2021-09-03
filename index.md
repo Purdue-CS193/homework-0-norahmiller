@@ -1,6 +1,12 @@
 # Norah Miller's First CS193 Homework
 
+## Some of My Favorite Things About CS193
 
+- Everyone seems to be nice
+- I understand the lessons so far
+- I can make it from my lecture to class on time if I ride my bike
+
+### I don't know if you want me to keep the rest of the text, so I'm just going to leave it and hope for the best :)
 
 ## Welcome to GitHub Pages
 
